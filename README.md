@@ -12,8 +12,7 @@ Bun CLI for QuiverAI SVG generation API.
 ## Install
 
 ```bash
-bun install
-bun link
+npm i -g @vforsh/svgen
 svgen --help
 ```
 
