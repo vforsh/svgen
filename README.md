@@ -26,6 +26,8 @@ export SVGEN_API_KEY="<your-key>"
 printf '<your-key>' | svgen cfg set apiKey -
 ```
 
+Quiver API quickstart: <https://docs.quiver.ai/getting-started/quickstart>
+
 ## Quick start
 
 ```bash
